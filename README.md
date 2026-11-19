@@ -137,6 +137,3 @@ It is not affiliated with, endorsed by, or associated with Discord, Crunchyroll,
 
 Users are responsible for complying with the terms of service and applicable rules of the websites and applications they use.
 
-## License
-
-See the `LICENSE` and `THIRD-PARTY-NOTICES.md` files for licensing information and third-party attribution.
