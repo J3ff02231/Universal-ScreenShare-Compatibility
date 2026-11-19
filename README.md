@@ -81,6 +81,9 @@ Compatibility may still depend on the browser version, website implementation, v
 5. Start sharing your browser screen or window through Discord.
 6. Check whether the video is visible in the transmitted stream.
 
+<img width="316" height="475" alt="{0BE918AF-B360-422F-8057-DBB36B295565}" src="https://github.com/user-attachments/assets/30809575-c485-471d-9e39-31793af3b1a3" />
+
+
 You can disable the adjustments at any time through the popup.
 
 ## Project structure
